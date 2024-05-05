@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714884004 source:c:\users\behan\desktop\d_bse_24_0022\check if a given number is an armstrong number or not\main.cpp
+	<iostream>
+	<cmath>
+
